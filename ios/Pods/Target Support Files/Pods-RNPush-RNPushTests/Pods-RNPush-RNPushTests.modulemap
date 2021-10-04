@@ -1,0 +1,6 @@
+module Pods_RNPush_RNPushTests {
+  umbrella header "Pods-RNPush-RNPushTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
